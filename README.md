@@ -1,7 +1,7 @@
 ### ✨ Who am I?
 My name is Adriyamaan Chatterjee and I’m a web developer who likes to create web projects. On this page you will find all of the projects I create.
 
-#### 🔗 My Portfolio Website
+#### 🔗 My Website
 [![Website](./assets/WEBSITE.svg)](nexuscoder.net)
 
 #### 💻 Programming languages that I use
